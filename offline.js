@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1736501420,
+	"version": 1736509403,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,9 @@
 		"images/redlightgreenlighthowto-sheet2.png",
 		"images/play-sheet0.png",
 		"images/emoji-sheet0.png",
+		"images/emoji-sheet1.png",
+		"images/emoji-sheet2.png",
+		"images/emoji-sheet3.png",
 		"images/diddyoil-sheet0.png",
 		"images/particles.png",
 		"media/tap.m4a",
@@ -18,6 +21,8 @@
 		"media/pop (1).ogg",
 		"media/boo.m4a",
 		"media/boo.ogg",
+		"media/sad meme.m4a",
+		"media/sad meme.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
